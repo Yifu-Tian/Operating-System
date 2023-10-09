@@ -1,5 +1,6 @@
 # Operating-System
-[Project 1](./CSC3150)
+## [Syllabus](http://www.cs.nthu.edu.tw/~ychung/syllabus/CSC3150-2023-Fall.htm)
+## [Project 1](./CSC3150)
 
 ## MIT6.828
 [MIT6.828](https://pdos.csail.mit.edu/6.828/2018/schedule.html)  
