@@ -9,7 +9,7 @@
    - [Project 2](https://github.com/Yifu-Tian/Operating-System/tree/main/CSC3150/project2)
    - [Project 3](https://github.com/Yifu-Tian/Operating-System/tree/main/CSC3150/project3)
 
-### 基于chatgpt与人脑协同完成的 Lecture Notes(持续更新)
+### Lecture Notes(keep updating)
    - [Lecture_4(pdf)](https://github.com/Yifu-Tian/Operating-System/blob/main/CSC3150/Lecturenotes/4_multithreaded_programming.pdf)
    - [Lecture_4(markdown)](https://github.com/Yifu-Tian/Operating-System/blob/main/CSC3150/Lecturenotes/4_multithreaded_programming.md)
 
